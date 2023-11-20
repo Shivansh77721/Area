@@ -1,2 +1,2 @@
-# Area
+# Areas
 Area of Different Shape
